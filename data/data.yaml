@@ -1,0 +1,5 @@
+train: ../../mushroomGrowth/train/images
+val: ../../mushroomGrowth/test/images
+
+nc: 2
+names: ['shape','mature']
